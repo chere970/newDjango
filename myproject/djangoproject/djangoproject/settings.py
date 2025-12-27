@@ -93,7 +93,7 @@ DATABASES = {
         'USER': 'postgres',
         'PASSWORD': 'yNUHZtfbvKooQCtrSHNZZeTGEXrDsKXf',
         # 'HOST': 'containers-us-west-123.railway.app',
-        'HOST': 'postgres-production-474d.up.railway.app',# e.g., tiny.db.elephantsql.com
+        'HOST': 'postgres-production-474d.up.railway.appcd',# e.g., tiny.db.elephantsql.com
         'PORT': '5432',
     }
 }
